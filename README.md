@@ -1,2 +1,20 @@
-# Week6_Navigation
-FanWorld is a React app that explores the history and modern technology of electric fans, featuring a dark-themed UI with animated cards, a historical timeline, and smart fan feature breakdowns — built with React, TypeScript, and Bootstrap 5.
+# 🌀 FanWorld
+ 
+A React app exploring the history and modern technology of electric fans.
+ 
+## Pages
+- **Home** – Landing page with hero section and highlights
+- **History** – Timeline of fan history from ancient times to today
+- **Modern** – Grid of modern fan features and innovations
+## Tech Used
+- React + TypeScript
+- React Router DOM
+- Bootstrap 5
+- Google Fonts (Syne + DM Sans)
+## How to Run
+- Clone the repo
+- Run `npm install`
+- Run `npm start`
+- Open `http://localhost:3000`
+## Build for Production
+- Run `npm run build`
